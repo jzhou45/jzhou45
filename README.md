@@ -23,7 +23,7 @@
 ## GitHub Stats:
 [![jzhou45's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzhou45&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jzhou45)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzhou45&theme=tokyonight&show_icons=true&exclude_repo=W12D2,W12D1,aa_homework,W11D5,aa_W11D2,aaW11D1,W10D5,aa_W9D3,aa_W8D5,aa_W8D4,aa_W8D3,aa_W8D2,aa_W8D1,aa_W7D5,W7D4,aa_W7D3,aa_W7D2,aa_W7D1,aa_W6D5,aa_W6D3,aa_W6D4,aa_W6D2,aa_W6D1,aa_W5D5,aa_W5D4,aa_W5D3,aa_W5D2,aa_W5D1,aa_W4D5,aa_W4D4,aa_W4D3,aa_W4D1,aa_W4D1,aa_W3D5,aa_W3D3,aa_W3D2,aa_W2D3,aa_W2D4,aa_W2D5,aa_W1D5,aa_W1D4,aa_W1D3,aa_W1D2,aa_1D1,aa_W2D1,aa_W2D2,League-dle,CS50-Week-0&&langs_count=10)](https://github.com/jzhou45)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzhou45&theme=tokyonight&show_icons=true&langs_count=10)](https://github.com/jzhou45)
   </div>
   
 ## Contact Me:
