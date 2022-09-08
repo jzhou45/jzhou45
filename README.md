@@ -1,4 +1,5 @@
 ## Hi, I'm Jonathan
+[Check out my portfolio](https://jzhou45.github.io/)
 
 ## Languages and Tools:
 
