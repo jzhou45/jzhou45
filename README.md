@@ -22,10 +22,10 @@
 <a href="https://www.figma.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 
 ## GitHub Stats:
-[![jzhou45's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzhou45&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jzhou45)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzhou45&theme=tokyonight&show_icons=true&langs_count=10)](https://github.com/jzhou45)
-  </div>
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jzhou45&theme=tokyonight&show_icons=true&langs_count=10)](https://github.com/jzhou45)
+  
+[![jzhou45's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jzhou45&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jzhou45)
   
 ## Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanzhou77@gmail.com)
