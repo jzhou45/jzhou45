@@ -8,7 +8,9 @@ Outside of work, I play table tennis, pickleball, and basketball, and I'm the co
 
 ## samplingNYC
 
-<a href="https://samplingnyc.com"><img width="400" alt="samplingNYC home page showing today's and tomorrow's free events" src="assets/samplingnyc.png" /></a>
+<p align="center">
+  <a href="https://samplingnyc.com"><img width="400" alt="samplingNYC home page showing today's and tomorrow's free events" src="assets/samplingnyc.png" /></a>
+</p>
 
 [samplingnyc.com](https://samplingnyc.com) pulls free NYC events from several listing sites into one place. Swipe right to save an event, left to pass, and it maps a route for the day.
 
