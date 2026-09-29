@@ -1,32 +1,46 @@
 ## Hi, I'm Jonathan
+
+I'm a software engineer at Optro (formerly AuditBoard), where I build the Risk Assessments features risk managers use to evaluate and track risk across their organizations. Before that, I worked at Janus Health, automating prior authorization requests for revenue cycle teams at large hospital systems.
+
+Outside of work, I play table tennis, pickleball, and basketball, and I'm the commissioner of the group chat's fantasy NBA league.
+
 [Check out my portfolio](https://jzhou45.github.io/)
 
-## Languages and Tools:
+## samplingNYC
 
-<a href="https://www.ruby-lang.org/en/"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" /></a>
-<a href="https://www.javascript.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+<a href="https://samplingnyc.com"><img width="400" alt="samplingNYC home page showing today's and tomorrow's free events" src="assets/samplingnyc.png" /></a>
+
+[samplingnyc.com](https://samplingnyc.com) pulls free NYC events from several listing sites into one place. Swipe right to save an event, left to pass, and it maps a route for the day.
+
+- Scheduled scrapers collect each day's events.
+- Gemini summarizes and tags them.
+- A static React site on GitHub Pages serves the daily list.
+
+The source code is private.
+
+## Earlier Projects
+
+Built at App Academy in 2022:
+
+- **[Metabook](https://github.com/jzhou45/Metabook):** a Facebook clone with posts, nested comments, likes, and profiles. Ruby on Rails, React, Redux, PostgreSQL, AWS S3.
+- **[.concat](https://github.com/jzhou45/.concat):** collaborative LeetCode practice with a shared live code editor and chat. Built with a team of four. MongoDB, Express, React, Node.js, Socket.io.
+- **[Olympus Card-Jitsu](https://github.com/jzhou45/Olympus-Card-Jitsu):** a Greek mythology take on Club Penguin's Card-Jitsu. Vanilla JavaScript. [Play it here](https://jzhou45.github.io/Olympus-Card-Jitsu/).
+
+## Languages and Tools
+
+<a href="https://www.typescriptlang.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+<a href="https://emberjs.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original.svg" /></a>
+<a href="https://react.dev"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="https://nodejs.org/en/"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 <a href="https://www.python.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-<a href="https://html5.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
-<a href="https://sass-lang.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
+<a href="https://www.ruby-lang.org/en/"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></a>
 <a href="https://rubyonrails.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" /></a>
-<a href="https://nodejs.org/en/"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
-<a href="https://reactjs.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-<a href="https://redux.js.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-<a href="https://expressjs.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
-<a href="https://jquery.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /></a>
-<a href="https://www.postgresql.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></a>
-<a href="https://www.sqlite.org/index.html"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
-<a href="https://www.mongodb.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a>
-<a href="https://git-scm.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<a href="https://www.figma.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+<a href="https://www.postgresql.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+<a href="https://playwright.dev"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" /></a>
+<a href="https://mochajs.org"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
+<a href="https://git-scm.com"><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+## Contact Me
 
-## GitHub Stats:
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jzhou45&theme=tokyonight&show_icons=true&langs_count=10)](https://github.com/jzhou45)
-  
-[![jzhou45's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jzhou45&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jzhou45)
-  
-## Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanzhou77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanzhou77)
