@@ -18,8 +18,6 @@ Outside of work, I play table tennis, pickleball, and basketball, and I'm the co
 - Gemini summarizes and tags them.
 - A static React site on GitHub Pages serves the daily list.
 
-The source code is private.
-
 ## Earlier Projects
 
 Built at App Academy in 2022:
